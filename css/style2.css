@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  
+  
+}
+
+
+main.columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px;
+  /* color: rgb(72, 72, 207); */
+}
+h2 {
+  font-size: 36px;
+  color: rgb(72, 72, 207);
+}
+
+header {
+  background-color: #3359DF;
+  color: white;
+  text-align: center;
+  padding: 25px 0px;
+  margin-bottom: 25px;
+  height: 300px;
+  width: auto 0;
+  background-image: url('/images/Rectangle\ 1.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+footer {
+  background: #3359DF;
+  color: white;
+  text-align: center;
+  height: 800px;
+  
+}
